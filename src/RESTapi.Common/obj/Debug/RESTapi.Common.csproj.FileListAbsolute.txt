@@ -1,0 +1,5 @@
+C:\Projects\RESTapi\src\RESTapi.Common\bin\Debug\RESTapi.Common.dll
+C:\Projects\RESTapi\src\RESTapi.Common\bin\Debug\RESTapi.Common.pdb
+C:\Projects\RESTapi\src\RESTapi.Common\obj\Debug\RESTapi.Common.csprojResolveAssemblyReference.cache
+C:\Projects\RESTapi\src\RESTapi.Common\obj\Debug\RESTapi.Common.dll
+C:\Projects\RESTapi\src\RESTapi.Common\obj\Debug\RESTapi.Common.pdb
