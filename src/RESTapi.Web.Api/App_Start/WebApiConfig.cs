@@ -11,7 +11,7 @@ namespace RESTapi.Web.Api
         {
             // Web API configuration and services
 
-            // Web API routes
+            // Enables attribute-based routing
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RESTapi.Web.Api.Models
 {
-    class Task
+    public class Task
     {
         private List<Link> _links;
 
