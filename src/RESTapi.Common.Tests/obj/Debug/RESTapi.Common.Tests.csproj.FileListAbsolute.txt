@@ -1,0 +1,5 @@
+C:\Projects\RESTapi\src\RESTapi.Common.Tests\bin\Debug\RESTapi.Common.Tests.dll
+C:\Projects\RESTapi\src\RESTapi.Common.Tests\bin\Debug\RESTapi.Common.Tests.pdb
+C:\Projects\RESTapi\src\RESTapi.Common.Tests\obj\Debug\RESTapi.Common.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\RESTapi\src\RESTapi.Common.Tests\obj\Debug\RESTapi.Common.Tests.dll
+C:\Projects\RESTapi\src\RESTapi.Common.Tests\obj\Debug\RESTapi.Common.Tests.pdb

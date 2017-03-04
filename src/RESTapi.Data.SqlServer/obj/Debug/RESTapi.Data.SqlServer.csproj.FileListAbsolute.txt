@@ -3,3 +3,15 @@ C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\RESTapi.Data.SqlServer.
 C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\obj\Debug\RESTapi.Data.SqlServer.csprojResolveAssemblyReference.cache
 C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\obj\Debug\RESTapi.Data.SqlServer.dll
 C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\obj\Debug\RESTapi.Data.SqlServer.pdb
+C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\RESTapi.Data.SqlServer.dll.config
+C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\FluentNHibernate.dll
+C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\Iesi.Collections.dll
+C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\NHibernate.dll
+C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\RESTapi.Common.dll
+C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\RESTapi.Data.dll
+C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\RESTapi.Common.pdb
+C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\RESTapi.Data.pdb
+C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\FluentNHibernate.pdb
+C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\FluentNHibernate.xml
+C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\Iesi.Collections.xml
+C:\Projects\RESTapi\src\RESTapi.Data.SqlServer\bin\Debug\NHibernate.xml

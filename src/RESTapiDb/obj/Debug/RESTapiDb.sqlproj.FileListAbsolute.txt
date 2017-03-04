@@ -1,0 +1,9 @@
+C:\Projects\RESTapi\src\RESTapiDb\bin\Debug\RESTapiDb.dacpac
+C:\Projects\RESTapi\src\RESTapiDb\bin\Debug\RESTapiDb.dll
+C:\Projects\RESTapi\src\RESTapiDb\bin\Debug\RESTapiDb.pdb
+C:\Projects\RESTapi\src\RESTapiDb\obj\Debug\RESTapiDb.dll
+C:\Projects\RESTapi\src\RESTapiDb\obj\Debug\RESTapiDb.pdb
+C:\Projects\RESTapi\src\RESTapiDb\obj\Debug\Model.xml
+C:\Projects\RESTapi\src\RESTapiDb\obj\Debug\refactor.xml
+C:\Projects\RESTapi\src\RESTapiDb\obj\Debug\postdeploy.sql
+C:\Projects\RESTapi\src\RESTapiDb\obj\Debug\predeploy.sql

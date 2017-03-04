@@ -3,3 +3,13 @@ C:\Projects\RESTapi\src\RESTapi.Web.Common\bin\Debug\RESTapi.Web.Common.pdb
 C:\Projects\RESTapi\src\RESTapi.Web.Common\obj\Debug\RESTapi.Web.Common.csprojResolveAssemblyReference.cache
 C:\Projects\RESTapi\src\RESTapi.Web.Common\obj\Debug\RESTapi.Web.Common.dll
 C:\Projects\RESTapi\src\RESTapi.Web.Common\obj\Debug\RESTapi.Web.Common.pdb
+C:\Projects\RESTapi\src\RESTapi.Web.Common\bin\Debug\Iesi.Collections.dll
+C:\Projects\RESTapi\src\RESTapi.Web.Common\bin\Debug\log4net.dll
+C:\Projects\RESTapi\src\RESTapi.Web.Common\bin\Debug\NHibernate.dll
+C:\Projects\RESTapi\src\RESTapi.Web.Common\bin\Debug\Ninject.dll
+C:\Projects\RESTapi\src\RESTapi.Web.Common\bin\Debug\Ninject.Web.Common.dll
+C:\Projects\RESTapi\src\RESTapi.Web.Common\bin\Debug\Iesi.Collections.xml
+C:\Projects\RESTapi\src\RESTapi.Web.Common\bin\Debug\log4net.xml
+C:\Projects\RESTapi\src\RESTapi.Web.Common\bin\Debug\NHibernate.xml
+C:\Projects\RESTapi\src\RESTapi.Web.Common\bin\Debug\Ninject.xml
+C:\Projects\RESTapi\src\RESTapi.Web.Common\bin\Debug\Ninject.Web.Common.xml

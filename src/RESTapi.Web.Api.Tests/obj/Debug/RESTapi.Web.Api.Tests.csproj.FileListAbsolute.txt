@@ -1,0 +1,4 @@
+C:\Projects\RESTapi\src\RESTapi.Web.Api.Tests\bin\Debug\RESTapi.Web.Api.Tests.dll
+C:\Projects\RESTapi\src\RESTapi.Web.Api.Tests\bin\Debug\RESTapi.Web.Api.Tests.pdb
+C:\Projects\RESTapi\src\RESTapi.Web.Api.Tests\obj\Debug\RESTapi.Web.Api.Tests.dll
+C:\Projects\RESTapi\src\RESTapi.Web.Api.Tests\obj\Debug\RESTapi.Web.Api.Tests.pdb

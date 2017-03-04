@@ -3,3 +3,7 @@ C:\Projects\RESTapi\src\RESTapi.Common\bin\Debug\RESTapi.Common.pdb
 C:\Projects\RESTapi\src\RESTapi.Common\obj\Debug\RESTapi.Common.csprojResolveAssemblyReference.cache
 C:\Projects\RESTapi\src\RESTapi.Common\obj\Debug\RESTapi.Common.dll
 C:\Projects\RESTapi\src\RESTapi.Common\obj\Debug\RESTapi.Common.pdb
+C:\Projects\RESTapi\src\RESTapi.Common\bin\Debug\AutoMapper.dll
+C:\Projects\RESTapi\src\RESTapi.Common\bin\Debug\log4net.dll
+C:\Projects\RESTapi\src\RESTapi.Common\bin\Debug\AutoMapper.xml
+C:\Projects\RESTapi\src\RESTapi.Common\bin\Debug\log4net.xml
